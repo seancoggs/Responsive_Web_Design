@@ -18,7 +18,7 @@ This project includes exercises and projects completed as part of the Responsive
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Responsive_Web_Design.git
+    git clone https://github.com/seancoggs/Responsive_Web_Design.git
     ```
 2. Navigate to the project directory:
     ```sh
